@@ -1,5 +1,5 @@
 # NTuplizerTask
-Example codes to test code before running on ALICE train system (Kudo to Preeti Dhankher who prepared this example)
+Example codes to test code before running on ALICE train system (Kudos to Preeti Dhankher who prepared this example)
 
 **RunTaskNTJ.C**: This is the main file which pulls the committed task and relevant code on the github and submits the job.
 #3-8 mentions the jobs mode of running and the output directory
